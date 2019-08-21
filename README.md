@@ -1,3 +1,5 @@
+Ongoing full ecommerce clothing react.js app with all functionality.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
